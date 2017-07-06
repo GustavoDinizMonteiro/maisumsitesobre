@@ -1,13 +1,11 @@
 # Site settings
 title: mais um site sobre
 subtitle: estatísticas e outras coisas
-email: arthurlustosaa@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  um site sobre estatísticas, tutorias e coisas outras. 
+email: gustavo.monteiro@ccc.ufcg.edu.br 
 baseurl: "/maisumsitesobre" # the subpath of your site, e.g. /blog/
-url: "https://arthurlustosa.github.io/maisumsitesobre/" # the base hostname & protocol for your site
-twitter_username: arthurlustosa_
-github_username:  arthurlustosa
+url: "https://GustavoDinizMonteiro.github.io/maisumsitesobre/" # the base hostname & protocol for your site
+twitter_username: gutodmonteiro_
+github_username:  GustavoDinizMonteiro
 permalink: /:year/:month/:title.html
 
 # Build settings
