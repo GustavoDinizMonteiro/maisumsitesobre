@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+<img height="100" width="100" src="{{ site.baseurl }}/figure/eu.JPG"><img><br>
 Oi, meu nome é Gustavo.
 
 tudo bom?
