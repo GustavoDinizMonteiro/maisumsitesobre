@@ -1,10 +1,10 @@
 # Site settings
-title: mais um site sobre
-subtitle: estatísticas e outras coisas
+title: Análise de Dados
+subtitle: estatísticas e probabilidades
 email: gustavo.monteiro@ccc.ufcg.edu.br 
-baseurl: "/maisumsitesobre" # the subpath of your site, e.g. /blog/
-url: "https://GustavoDinizMonteiro.github.io/maisumsitesobre/" # the base hostname & protocol for your site
-twitter_username: gutodmonteiro_
+baseurl: "/postsAD" # the subpath of your site, e.g. /blog/
+url: "https://GustavoDinizMonteiro.github.io/postsAD/" # the base hostname & protocol for your site
+twitter_username: gutodmonteiro
 github_username:  GustavoDinizMonteiro
 permalink: /:year/:month/:title.html
 

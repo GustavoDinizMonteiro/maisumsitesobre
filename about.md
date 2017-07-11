@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Oi, meu nome é Arthur.
+Oi, meu nome é Gustavo.
 
 tudo bom?
 
@@ -13,6 +13,6 @@ sou estudante, mais especificamente, de ciência da computação. Não, eu não 
 
 o propósito desse blog é postar coisas que eu fiz (as legais), projetos pessoais ou até mesmo os trabalhos da universidade, e é isso.
 
-sim, meu contato: arthurlustosaa@gmail.com
+sim, meu contato: gustavo.monteiro@ccc.ufcg.edu.br
 
-facebook, twitter e github é só clicar nos balõezinhos abaixo.
+twitter e github é só clicar nos balõezinhos abaixo.
